@@ -38,5 +38,27 @@ namespace ComposicaoExercicio.Entities
             }
             return sum;
         }
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("ORDER SUMMARY:");
+            sb.Append("Order moment: ");
+            sb.AppendLine(Moment.ToString("dd/MM/yyyy HH:mm:ss"));
+            sb.Append("Order status: ");
+            sb.AppendLine(Status.ToString());
+            sb.Append("Client: ");
+            sb.Append(Client.Name + " ");
+            sb.Append(Client.BirthDate.ToString("dd/MM/yyyy"));
+            sb.AppendLine(" - " + Client.Email);
+            sb.AppendLine("Order items:");
+            foreach (OrderItem x in Items)
+            {
+                sb.Append(x.Product.Name + ", Quantity: ");
+                sb.Append(x.Quantity + ", ");
+                sb.AppendLine("Subtotal: " + x.SubTotal().ToString("F2"));
+            }
+            sb.AppendLine("Total price: " + Total());
+            return sb.ToString();
+        }
     }
 }

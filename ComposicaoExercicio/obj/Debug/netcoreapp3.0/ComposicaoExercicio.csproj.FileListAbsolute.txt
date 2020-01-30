@@ -1,0 +1,11 @@
+D:\Documentos\C#\ComposicaoExercicio\ComposicaoExercicio\bin\Debug\netcoreapp3.0\ComposicaoExercicio.exe
+D:\Documentos\C#\ComposicaoExercicio\ComposicaoExercicio\bin\Debug\netcoreapp3.0\ComposicaoExercicio.deps.json
+D:\Documentos\C#\ComposicaoExercicio\ComposicaoExercicio\bin\Debug\netcoreapp3.0\ComposicaoExercicio.runtimeconfig.json
+D:\Documentos\C#\ComposicaoExercicio\ComposicaoExercicio\bin\Debug\netcoreapp3.0\ComposicaoExercicio.runtimeconfig.dev.json
+D:\Documentos\C#\ComposicaoExercicio\ComposicaoExercicio\bin\Debug\netcoreapp3.0\ComposicaoExercicio.dll
+D:\Documentos\C#\ComposicaoExercicio\ComposicaoExercicio\bin\Debug\netcoreapp3.0\ComposicaoExercicio.pdb
+D:\Documentos\C#\ComposicaoExercicio\ComposicaoExercicio\obj\Debug\netcoreapp3.0\ComposicaoExercicio.csprojAssemblyReference.cache
+D:\Documentos\C#\ComposicaoExercicio\ComposicaoExercicio\obj\Debug\netcoreapp3.0\ComposicaoExercicio.AssemblyInfoInputs.cache
+D:\Documentos\C#\ComposicaoExercicio\ComposicaoExercicio\obj\Debug\netcoreapp3.0\ComposicaoExercicio.AssemblyInfo.cs
+D:\Documentos\C#\ComposicaoExercicio\ComposicaoExercicio\obj\Debug\netcoreapp3.0\ComposicaoExercicio.dll
+D:\Documentos\C#\ComposicaoExercicio\ComposicaoExercicio\obj\Debug\netcoreapp3.0\ComposicaoExercicio.pdb
